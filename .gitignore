@@ -1,0 +1,5 @@
+# MacOS
+.DS_Store
+
+# Sublime Text 3
+*.sublime-workspace
