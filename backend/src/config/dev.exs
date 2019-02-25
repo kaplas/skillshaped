@@ -71,5 +71,5 @@ config :skillshaped, Skillshaped.Repo,
   username: "postgres",
   password: "postgres",
   database: "skillshaped_dev",
-  hostname: "localhost",
+  hostname: "db",
   pool_size: 10
